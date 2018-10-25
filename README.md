@@ -3,7 +3,7 @@
 
 ## Why
 
-- port of UWS from C++ for npm build
+- port of UWS from C++ for [deleted](https://www.reddit.com/r/node/comments/91kgte/uws_has_been_deprecated/) npm build
 
 ## Process
 
