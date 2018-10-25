@@ -1,13 +1,14 @@
 {
-	"name": "@discordjs/uws",
-	"version": "11.149.1",
+	"name": "uws",
+	"version": "0.0.2",
 	"description": "Tiny WebSockets",
 	"main": "uws.js",
-	"author": "Alex Hultman <alexhultman@gmail.com> (https://github.com/alexhultman)",
+	"author": "multiple",
 	"contributors": [
+    "Alex Hultman <alexhultman@gmail.com> (https://github.com/alexhultman)",
 		"iCrawl <icrawltogo@gmail.com> (https://github.com/iCrawl)"
 	],
-	"license": "Zlib",
+	"license": "MIT",
 	"scripts": {
 		"install": "node-gyp rebuild"
 	},
@@ -15,12 +16,9 @@
 		"tiny",
 		"websockets"
 	],
-	"homepage": "https://github.com/discordjs/uws#readme",
+	"homepage": "https://github.com/prod-alex-alex2006hw/uws#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/discordjs/uws.git"
-	},
-	"engines": {
-		"node": ">=6.0.0"
+		"url": "https://github.com/prod-alex-alex2006hw/uws#readme"
 	}
 }

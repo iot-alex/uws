@@ -1,0 +1,2 @@
+#git clone git@github.com:prod-alex-alex2006hw/uws.git dist
+cd dist && git add -A . && git commit -m released && git push

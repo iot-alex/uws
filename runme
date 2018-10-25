@@ -1,2 +1,4 @@
 git clone https://github.com/uWebSockets/uWebSockets.git
+\rm -rf dist
+git clone git@github.com:prod-alex-alex2006hw/uws.git dist
 make -j$(nproc) -l$(nproc)
